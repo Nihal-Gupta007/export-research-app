@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Export Research Tool", layout="wide")
+st.set_page_config(page_title="Export Research Intelligent Tool", layout="wide")
 
 st.title("📦 Export Market & Product Research App")
 
